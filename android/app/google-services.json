@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577194000454",
+    "project_id": "fir-salonapp",
+    "storage_bucket": "fir-salonapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577194000454:android:dfeeaf2b70059b07718a47",
+        "android_client_info": {
+          "package_name": "lum.heads.ass_salon_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577194000454-bn68kllnstaaqdhqo1pvtc5fmhmhgj46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3pEYAW15OFdnNlT56ybx3MgWfLjdaju8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577194000454-bn68kllnstaaqdhqo1pvtc5fmhmhgj46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
